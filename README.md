@@ -1,2 +1,2 @@
-# ensep
+# EnSeP
 Repository of code related to EnSeP, the enzyme search platform.
